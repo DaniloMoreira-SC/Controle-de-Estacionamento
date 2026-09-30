@@ -59,35 +59,26 @@ src
 ├── model
 ├── service
 └── Main.java
+
 Banco de Dados
 O sistema utiliza as seguintes tabelas:
-
-ENTRADA
-
-SAIDA
-
-VAGA
-
-TARIFA
+*ENTRADA
+*SAIDA
+*VAGA
+*TARIFA
 
 Conceitos Aplicados
 Programação Orientada a Objetos (POO)
 
 Arquitetura em camadas (DAO, Model e Service)
+*JDBC
+*CRUD
+*SQL
+*PreparedStatement
+*Tratamento de exceções
+*Versionamento com Git
 
-JDBC
-
-CRUD
-
-SQL
-
-PreparedStatement
-
-Tratamento de exceções
-
-Versionamento com Git
-
-Melhorias Futuras
+*Melhorias Futuras
 Interface gráfica (JavaFX)
 
 Controle de usuários e permissões
