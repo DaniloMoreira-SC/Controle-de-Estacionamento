@@ -59,16 +59,17 @@ src
 ├── model
 ├── service
 └── Main.java
-
-Banco de Dados
+```
+```markdown
+## Banco de Dados
 O sistema utiliza as seguintes tabelas:
 *ENTRADA
 *SAIDA
 *VAGA
 *TARIFA
 
-Conceitos Aplicados
-Programação Orientada a Objetos (POO)
+## Conceitos Aplicados
+*Programação Orientada a Objetos (POO)
 
 Arquitetura em camadas (DAO, Model e Service)
 *JDBC
@@ -78,20 +79,15 @@ Arquitetura em camadas (DAO, Model e Service)
 *Tratamento de exceções
 *Versionamento com Git
 
-*Melhorias Futuras
-Interface gráfica (JavaFX)
+## Melhorias Futuras
+*Interface gráfica (JavaFX)
+*Controle de usuários e permissões
+*Relatórios em PDF
+*Dashboard com indicadores
+*Exportação para Excel
+*Reserva de vagas
 
-Controle de usuários e permissões
-
-Relatórios em PDF
-
-Dashboard com indicadores
-
-Exportação para Excel
-
-Reserva de vagas
-
-Autor
+## Autor
 Danilo Moreira
 
 Projeto desenvolvido para fins acadêmicos e composição de portfólio, demonstrando conhecimentos em
