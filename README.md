@@ -52,15 +52,13 @@ Sistema desenvolvido em **Java**, utilizando **JDBC** e **MySQL**, com foco na a
 
 ## Estrutura do Projeto
 
-``` Text
-src
+**src
 ├── connection
 ├── dao
 ├── model
 ├── service
 └── Main.java
-```
-```markdown
+
 ## Banco de Dados
 O sistema utiliza as seguintes tabelas:
 * ENTRADA
