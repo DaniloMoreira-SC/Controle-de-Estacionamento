@@ -52,7 +52,7 @@ Sistema desenvolvido em **Java**, utilizando **JDBC** e **MySQL**, com foco na a
 
 ## Estrutura do Projeto
 
-**src
+*src
 ├── connection
 ├── dao
 ├── model
