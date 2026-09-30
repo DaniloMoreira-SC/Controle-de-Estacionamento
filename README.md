@@ -1,3 +1,4 @@
+```markdown
 ## Sistema de Gerenciamento de Estacionamento
 
 Sistema desenvolvido em **Java**, utilizando **JDBC** e **MySQL**, com foco na aplicação dos conceitos de Programação Orientada a Objetos, persistência de dados e regras de negócio.
@@ -58,39 +59,49 @@ src
 ├── model
 ├── service
 └── Main.java
-```
-
-## Banco de Dados
-
+Banco de Dados
 O sistema utiliza as seguintes tabelas:
 
-* ENTRADA
-* SAIDA
-* VAGA
-* TARIFA
+ENTRADA
 
-## Conceitos Aplicados
+SAIDA
 
-* Programação Orientada a Objetos (POO)
-* Arquitetura em camadas (DAO, Model e Service)
-* JDBC
-* CRUD
-* SQL
-* PreparedStatement
-* Tratamento de exceções
-* Versionamento com Git
+VAGA
 
-## Melhorias Futuras
+TARIFA
 
-* Interface gráfica (JavaFX)
-* Controle de usuários e permissões
-* Relatórios em PDF
-* Dashboard com indicadores
-* Exportação para Excel
-* Reserva de vagas
+Conceitos Aplicados
+Programação Orientada a Objetos (POO)
 
-## Autor
+Arquitetura em camadas (DAO, Model e Service)
 
-**Danilo Moreira**
+JDBC
 
-Projeto desenvolvido para fins acadêmicos e composição de portfólio, demonstrando conhecimentos em Java, JDBC, SQL e desenvolvimento de aplicações orientadas a objetos.
+CRUD
+
+SQL
+
+PreparedStatement
+
+Tratamento de exceções
+
+Versionamento com Git
+
+Melhorias Futuras
+Interface gráfica (JavaFX)
+
+Controle de usuários e permissões
+
+Relatórios em PDF
+
+Dashboard com indicadores
+
+Exportação para Excel
+
+Reserva de vagas
+
+Autor
+Danilo Moreira
+
+Projeto desenvolvido para fins acadêmicos e composição de portfólio, demonstrando conhecimentos em
+Java, JDBC, SQL e desenvolvimento de aplicações orientadas a objetos.
