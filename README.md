@@ -52,39 +52,40 @@ Sistema desenvolvido em **Java**, utilizando **JDBC** e **MySQL**, com foco na a
 
 ## Estrutura do Projeto
 
-
+``` Text
 src
 ├── connection
 ├── dao
 ├── model
 ├── service
 └── Main.java
-
+```
+```markdown
 ## Banco de Dados
 O sistema utiliza as seguintes tabelas:
-*ENTRADA
-*SAIDA
-*VAGA
-*TARIFA
+* ENTRADA
+* SAIDA
+* VAGA
+* TARIFA
 
 ## Conceitos Aplicados
-*Programação Orientada a Objetos (POO)
+* Programação Orientada a Objetos (POO)
 
 Arquitetura em camadas (DAO, Model e Service)
-*JDBC
-*CRUD
-*SQL
-*PreparedStatement
-*Tratamento de exceções
-*Versionamento com Git
+* JDBC
+* CRUD
+* SQL
+* PreparedStatement
+* Tratamento de exceções
+* Versionamento com Git
 
 ## Melhorias Futuras
-*Interface gráfica (JavaFX)
-*Controle de usuários e permissões
-*Relatórios em PDF
-*Dashboard com indicadores
-*Exportação para Excel
-*Reserva de vagas
+* Interface gráfica (JavaFX)
+* Controle de usuários e permissões
+* Relatórios em PDF
+* Dashboard com indicadores
+* Exportação para Excel
+* Reserva de vagas
 
 ## Autor
 Danilo Moreira
