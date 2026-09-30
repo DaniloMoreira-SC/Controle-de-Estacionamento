@@ -52,7 +52,7 @@ Sistema desenvolvido em **Java**, utilizando **JDBC** e **MySQL**, com foco na a
 
 ## Estrutura do Projeto
 
-```text
+
 src
 ├── connection
 ├── dao
@@ -60,7 +60,6 @@ src
 ├── service
 └── Main.java
 
-```
 ## Banco de Dados
 O sistema utiliza as seguintes tabelas:
 *ENTRADA
